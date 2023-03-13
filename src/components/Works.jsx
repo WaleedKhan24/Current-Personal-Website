@@ -85,9 +85,7 @@ const Works = () => {
           className="mt-3 text-secondary text-[17px] max-w-3xl leading-[30px]"
         >
           Following pet-projects showcases my skills and experience. Each
-          project is briefly described with links to code repositories and live
-          demos in it.
-        </motion.p>
+          project is briefly described with links to code repositories.
       </div>
 
       <div className="mt-20 flex flex-wrap gap-7 justify-center">
