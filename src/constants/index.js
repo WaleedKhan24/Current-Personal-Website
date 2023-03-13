@@ -117,7 +117,7 @@ const experiences = [
         iconBg: "#E6DEDD",
         date: "Jan 2022 - Aug 2022",
         points: [
-            "Development of non-commercial website projects using HTML5, CSS3 (SCSS) and JavaScript (JS , React, NextJS, Expo React Native) technologies.",
+            "Developed a full-stack feedback form using Python on the back-end and HTML/CSS on the front-end, and successfully delivered the project that met the client's expectations. Tested and debugged the website and made ongoing updates to keep it up-to-date and relevant.",
         ],
     },
     {
@@ -127,7 +127,7 @@ const experiences = [
         iconBg: "#E6DEDD",
         date: "May 2022 - Present",
         points: [
-            "Development of non-commercial projects of server applications using JavaScript (NodeJS), Web project assembly tools (Webpack), databases (SQLite) and the HTTP network protocol.",
+            "Oversaw financial management by managing the cafe's financial performance and maintaining its budget, while also maintaining high standards of customer service by promptly attending to customer needs and handling complaints.",
         ],
     },
     {
@@ -137,7 +137,7 @@ const experiences = [
         iconBg: "#E6DEDD",
         date: "October 2021 - October 2022",
         points: [
-            "Development of non-commercial web application projects using TypeScript, NestJS.",
+            "Managed financial transactions and ensured accurate restaurant records while also providing customer service, taking orders, and handling cash transactions. Additionally, I managed inventory by tracking levels and placing orders for supplies to meet customer demand.",
         ],
     },
 ]
