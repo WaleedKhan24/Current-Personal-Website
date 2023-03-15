@@ -144,7 +144,7 @@ const experiences = [
 
 const myWords = [
     {
-        text: "Here you can download my Resumé by clicking on the Download button. Looking forward to our collaboration.",
+        text: "Here you can view my Résumé by clicking on the View Résumé button. Looking forward to our collaboration.",
         name: "Waleed Khan",
         designation: "Student",
         company: "University Waterloo",
