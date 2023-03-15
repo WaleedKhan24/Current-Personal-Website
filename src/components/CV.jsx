@@ -45,7 +45,7 @@ const CV = () => {
       >
         <motion.div variants={textVariant()}>
           <p className={styles.sectionSubText}>For employers</p>
-          <h2 className={styles.sectionHeadText}>My CV.</h2>
+          <h2 className={styles.sectionHeadText}>My Résumé.</h2>
         </motion.div>
       </div>
       <div
@@ -62,11 +62,12 @@ const CV = () => {
           <div className="flex min-[850px]:flex-row flex-col justify-around items-center">
             <img src={CVDuncan} alt="CVDuncan" className="w-[250px]" />
 
-            <a href={CVDoc} download>
+            <a href="https://drive.google.com/file/d/12Xf6nLRnPw5sY0fOAXjOlkU8vjVmgYMP/view?usp=sharing">
               <button className="bg-tertiary py-3 px-8 rounded-xl outline-none w-fit text-white font-bold shadow-md shadow-primary text-[21px]">
-                Download CV
+                View Resume
               </button>
             </a>
+            
           </div>
         </motion.div>
       </div>
