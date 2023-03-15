@@ -64,7 +64,7 @@ const CV = () => {
 
             <a href="https://drive.google.com/file/d/12Xf6nLRnPw5sY0fOAXjOlkU8vjVmgYMP/view?usp=sharing">
               <button className="bg-tertiary py-3 px-8 rounded-xl outline-none w-fit text-white font-bold shadow-md shadow-primary text-[21px]">
-                View Resume
+                View Résumé
               </button>
             </a>
             
